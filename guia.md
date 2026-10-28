@@ -155,34 +155,7 @@ http://taller-nginx-20b.duckdns.org
 
 ![Sitio web publicado y funcionando](images/05-sitio-funcionando.jpeg)
 
----
 
-## Paso 7. Publicar la guía en GitHub
 
-1. Crear un repositorio **público** en GitHub llamado `guia-nginx-duckdns`.
-2. Subir `guia.md` y la carpeta `images/` con las capturas:
 
-```
-guia-nginx-duckdns/
-├── guia.md
-└── images/
-    ├── 01-detalle-instancia.jpeg
-    ├── 02 lista instancias.jpeg
-    ├── 03-comandos-vm.jpeg
-    ├── 04-duckdns.jpeg
-    └── 05-sitio-funcionando.jpeg
-```
-
-3. Abrir `guia.md` en GitHub y confirmar que las capturas se visualizan. Las rutas son relativas (`images/...`), por lo que funcionan si la carpeta `images` está en el repositorio.
-
----
-
-## Paso 8. Entrega en Moodle
-
-Se entregan únicamente:
-
-- **Enlace directo a la guía:** `https://github.com/marqutoss-netizen/guia-nginx-duckdns/blob/main/guia.md`
-- **Dirección del subdominio:** `http://taller-nginx-20b.duckdns.org`
-
-> La VM permanece en estado **Running** y Nginx activo para la verificación del docente.
 
