@@ -1,6 +1,6 @@
 # Guía paso a paso: publicar una página web con Nginx en una VM de Oracle Cloud y acceder con un subdominio de DuckDNS
 
-**Estudiante:** Marco Aurelio Guevara Cuca
+**Estudiante:** Marco Aurelio Guevara Cuca Y Yury Paola Velez Arias
 **Asignatura:** Redes y Servicios — Taller de Redes e Infraestructura
 **Subdominio:** `http://taller-nginx-20b.duckdns.org`
 **Repositorio:** [https://github.com/marqutoss-netizen/guia-nginx-duckdns](https://github.com/marqutoss-netizen/guia-nginx-duckdns)
